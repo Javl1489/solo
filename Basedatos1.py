@@ -14,7 +14,7 @@ if paso1_str == 1478:
     print("continuemos")
 
 if paso1_str == 1478:
-    print("estela")
+    print("Estela")
 
 
 
